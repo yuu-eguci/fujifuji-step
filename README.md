@@ -1,7 +1,7 @@
 fujifuji-step
 ===
 
-😩 🐾 Measuring code quantity through lines of code is unrelated to the actual quality or efficiency of the code, and doesn't reflect its complexity. It can even encourage the addition of unnecessary code, making it easy to artificially inflate the line count, which renders the measurement meaningless. Moreover, comparing between different programming languages becomes difficult, and it doesn't take into account the maintainability or extensibility of the code. It's a ludicrous relic of the past, but it does make for an interesting topic of conversation.
+😩 🐾 Measuring code quantity through lines of code is unrelated to the actual quality or efficiency of the code, and doesn't reflect its complexity. It can even encourage the addition of unnecessary code, making it easy to artificially inflate the line count, which renders the measurement meaningless. Moreover, comparing between different programming languages becomes difficult, and it doesn't take into account the maintainability or extensibility of the code. It's a ridiculous relic of the past, but it does make for an interesting topic of conversation.
 
 ## Usage
 
